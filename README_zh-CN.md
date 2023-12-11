@@ -86,6 +86,8 @@ openai_humaneval                        a82cae     humaneval_pass@1  gen     32.
 mbpp                                    1e1056     score             gen     47.80
 bbh                                     -          naive_average     gen     67.14
 ```
+# 模型结构
+![image](structure.jpeg)
 
 # 准备模型权重
 
